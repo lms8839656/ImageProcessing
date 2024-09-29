@@ -1,0 +1,6 @@
+﻿  Project1Doc.cpp
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(180,3): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(195,16): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(195,19): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(195,22): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+  Project1.vcxproj -> C:\Users\OWNER\Desktop\Project1\Debug\Project1.exe

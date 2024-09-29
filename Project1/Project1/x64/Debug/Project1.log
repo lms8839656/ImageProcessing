@@ -1,0 +1,86 @@
+﻿  Project1Doc.cpp
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(26,19): error C2871: 'cv': 같은 이름을 가진 네임스페이스가 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(185,3): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(767,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(768,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(769,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(784,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(785,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(786,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1034,2): error C2065: 'Point': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1034,8): error C2146: 구문 오류: ';'이(가) 'minLoc' 식별자 앞에 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1034,8): error C2065: 'minLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1034,16): error C2065: 'maxLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1035,2): error C2065: 'Point': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1035,8): error C2146: 구문 오류: ';'이(가) 'matchLoc' 식별자 앞에 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1035,8): error C2065: 'matchLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1037,2): error C2065: 'Mat': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1037,6): error C2146: 구문 오류: ';'이(가) 'src' 식별자 앞에 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1037,6): error C2065: 'src': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1037,12): error C3861: 'imread': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1038,6): error C2065: 'src': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1040,3): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1040,30): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1043,2): error C2065: 'Mat': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1043,6): error C2146: 구문 오류: ';'이(가) 'templ' 식별자 앞에 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1043,6): error C2065: 'templ': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1043,14): error C3861: 'imread': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1044,6): error C2065: 'src': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1046,3): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1046,32): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1049,2): error C2065: 'Mat': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1049,6): error C2146: 구문 오류: ';'이(가) 'result' 식별자 앞에 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1049,6): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1053,3): error C2065: 'Mat': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1053,7): error C2146: 구문 오류: ';'이(가) 'img_out' 식별자 앞에 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1053,7): error C2065: 'img_out': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1054,3): error C2065: 'src': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1054,14): error C2065: 'img_out': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1069,17): error C2065: 'src': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1069,22): error C2065: 'templ': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1069,29): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1069,3): error C3861: 'matchTemplate': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1070,13): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1070,21): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1070,35): error C2065: 'NORM_MINMAX': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1070,52): error C3861: 'Mat': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1070,3): error C3861: 'normalize': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1071,13): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1071,40): error C2065: 'minLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1071,49): error C2065: 'maxLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1071,57): error C3861: 'Mat': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1071,3): error C3861: 'minMaxLoc': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1074,4): error C2065: 'matchLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1074,15): error C2065: 'minLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1077,4): error C2065: 'matchLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1077,15): error C2065: 'maxLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1082,3): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1082,75): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1084,3): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1084,39): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1086,3): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1086,39): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1088,13): error C2065: 'img_out': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1088,22): error C2065: 'matchLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1088,38): error C2065: 'matchLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1088,51): error C2065: 'templ': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1088,63): error C2065: 'matchLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1088,76): error C2065: 'templ': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1088,32): error C3861: 'Point': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1088,89): error C3861: 'Scalar': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1088,3): error C3861: 'rectangle': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1090,12): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1090,20): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1090,28): error C2065: 'COLOR_GRAY2BGR': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1090,3): error C3861: 'cvtColor': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1091,10): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1091,18): error C2065: 'matchLoc': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1091,31): error C3861: 'Scalar': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1091,3): error C3861: 'circle': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1093,17): error C2065: 'img_out': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1093,3): error C3861: 'imshow': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1094,19): error C2065: 'templ': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1094,3): error C3861: 'imshow': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1095,20): error C2065: 'result': 선언되지 않은 식별자입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1095,3): error C3861: 'imshow': 식별자를 찾을 수 없습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1097,3): error C3861: 'waitKey': 식별자를 찾을 수 없습니다.

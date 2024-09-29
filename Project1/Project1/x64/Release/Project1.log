@@ -1,0 +1,49 @@
+﻿  Project1Doc.cpp
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(190,3): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(205,16): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(205,19): warning C4101: 'g' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(205,22): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(784,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(785,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(786,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(798,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(799,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(800,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(816,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(817,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(818,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(790,18): warning C4101: 'difb' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(771,6): warning C4101: 'sumO' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(790,6): warning C4101: 'difr' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(790,12): warning C4101: 'difg' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(770,12): warning C4101: 'iy' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1254,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1255,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1256,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1266,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1267,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1268,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1281,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1282,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1283,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1298,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1299,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1300,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1260,18): warning C4101: 'difb' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1242,6): warning C4101: 'sumO' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1260,6): warning C4101: 'difr' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1260,12): warning C4101: 'difg' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1241,12): warning C4101: 'iy' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1342,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1343,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1344,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1322,6): warning C4101: 'sumO' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1321,12): warning C4101: 'iy' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1320,6): warning C4101: 'pixO' :참조되지 않은 지역 변수입니다.
+C:\Users\OWNER\Desktop\Project1\Project1\Project1Doc.cpp(1319,18): warning C4101: 'endc' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  2 of 653 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Project1.vcxproj -> C:\Users\OWNER\Desktop\Project1\x64\Release\Project1.exe
